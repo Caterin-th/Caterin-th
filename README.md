@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hola, soy Caterin Thomas👋
 
-<!--
-**Caterin-th/Caterin-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Acerca de mí
+Soy un apasionado desarrollador de software de Colombia, con interés en tecnologías emergentes. Siempre estoy buscando oportunidades para aprender y crecer.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades Técnicas
+- Lenguajes de programación: PHP
+- Desarrollo web: HTML5, CSS, JavaScript
+- Bases de datos: MySQL
+- Herramientas: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis hobbies y aficiones 🎵📽️
+
+- Me encanta la música.
+- El cine.
+- Me gusta viajar y conocer nuevas culturas y lugares.
+
+## 📧 Contáctame
+- Correo - caterinthomasv1996@gmail.com
